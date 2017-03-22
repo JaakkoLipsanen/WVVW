@@ -7,7 +7,7 @@ Requires [XNA Framework Redistributable 4.0](https://www.microsoft.com/en-us/dow
 
 ![gif](/Documentation/Screenshots/Demo1.gif)
 ![gif](/Documentation/Screenshots/Demo2.gif)
-![screenshot](/Documentation/Screenshots/Screenshot 1.png)
-![screenshot](/Documentation/Screenshots/Screenshot 2.png)
-![screenshot](/Documentation/Screenshots/EditorScreenshot 1.png)
-![screenshot](/Documentation/Screenshots/EditorScreenshot 2.png)
+![screenshot](/Documentation/Screenshots/Screenshot%201.png)
+![screenshot](/Documentation/Screenshots/Screenshot%202.png)
+![screenshot](/Documentation/Screenshots/EditorScreenshot%201.png)
+![screenshot](/Documentation/Screenshots/EditorScreenshot%202.png)
