@@ -5,6 +5,8 @@ WVVW is a homage to the Terry Cavanagh's excellent VVVVVV game. It was developed
 You can download the game in the Releases tab.
 Requires [XNA Framework Redistributable 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 
+[**GAMEPLAY VIDEO**](https://www.youtube.com/watch?v=RWinFj4EnyE)
+
 ![gif](/Documentation/Screenshots/Demo1.gif)
 ![gif](/Documentation/Screenshots/Demo2.gif)
 ![screenshot](/Documentation/Screenshots/Screenshot%201.png)
